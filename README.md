@@ -1,1 +1,1 @@
-Course module solutions of **Coursera**. Completed by [MrDeveloperJIS](https://github.com/MrDeveloperJIS).
+Course module solutions of **Coursera**. Completed by [Md. Jahidul Islam Sujan](https://github.com/MrDeveloperJIS).
